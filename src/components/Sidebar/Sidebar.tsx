@@ -7,10 +7,11 @@ import GroupAddOutlinedIcon from '@mui/icons-material/GroupAddOutlined';
 import LogoutOutlinedIcon from '@mui/icons-material/LogoutOutlined';
 import Brightness6Icon from '@mui/icons-material/Brightness6';
 import React from "react";
+import {HzType} from "../../App";
 
 type PropsType = {
-    setMode: (str: string)=> void
-    mode: string
+    setMode: (str: HzType)=> void
+    mode: HzType
 }
 
 export const Sidebar = (props: PropsType) => {
