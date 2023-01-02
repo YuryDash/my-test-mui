@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/my-test-mui/static/css/main.c79f7d8b.css",
+    "main.js": "/my-test-mui/static/js/main.ab49efa3.js",
+    "index.html": "/my-test-mui/index.html",
+    "main.c79f7d8b.css.map": "/my-test-mui/static/css/main.c79f7d8b.css.map",
+    "main.ab49efa3.js.map": "/my-test-mui/static/js/main.ab49efa3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c79f7d8b.css",
+    "static/js/main.ab49efa3.js"
+  ]
+}
